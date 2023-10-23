@@ -18,8 +18,8 @@ jobs:
     - name: Sync icons to JSON
       run: |
         ICONS_JSON='{"icons": []}'
-        for icon in icons/*; do
-          ICON_NAME=$(basename "$icon" .svg)  # Assuming SVG icons
+        for icon in icons/*.png; do  # Now targeting PNG icons
+          ICON_NAME=$(basename "$icon" .png)
           ICONS_JSON=$(echo "$ICONS_JSON" | jq ".icons += [\"$ICON_NAME\"]")
         done
         echo "$ICONS_JSON" > icons.json
