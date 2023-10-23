@@ -7,7 +7,7 @@
 
 ## 🎭 图标预览
 
-![ACA](https://raw.githubusercontent.com/cc63/ICON/main/icons/ACA.png) ![AMY](https://raw.githubusercontent.com/cc63/ICON/main/icons/AMY.png) ![imm](https://raw.githubusercontent.com/cc63/ICON/main/icons/imm.png) ![MESL](https://raw.githubusercontent.com/cc63/ICON/main/icons/MESL.png) ![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png) ![Coffee](https://raw.githubusercontent.com/cc63/ICON/main/icons/Coffee.png)
+![ACA](https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png) ![imm](https://raw.githubusercontent.com/cc63/ICON/main/icons/imm.png) ![MESL](https://raw.githubusercontent.com/cc63/ICON/main/icons/MESL.png) ![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png)
 
 > 💡 注意: 以上只是部分图标的展示，更多图标请直接访问仓库查看。
 
