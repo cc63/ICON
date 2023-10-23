@@ -1,15 +1,3 @@
-### 🌟 cc63 图标库 🌟
-
----
-
-<div align="center">
-    <h1> 🌟 cc63 图标库 🌟 </h1>
-    </div>
-    <p>为 Sub-Store 与 Quantumult X 精心设计的纯色图标库</p>
-</div>
-
----
-
 ### 🎨 设计理念
 
 本图标库主要针对 `Sub-Store` 与 `Quantumult X` 进行设计。采用纯色设计，简约而不简单，旨在为用户提供一种清晰、美观、一致的视觉体验。
