@@ -1,0 +1,14 @@
+{
+  "name": "icons",
+  "description": "By cc63",
+  "icons": [
+    {
+      "name": "Lend",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Lend.png"
+    },
+    {
+      "name": "MESL",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/MESL.png"
+    }
+  ]
+}
