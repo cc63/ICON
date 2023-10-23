@@ -1,33 +1,35 @@
-name: Sync Icons to JSON
+name: Generate Icons JSON
 
 on:
   push:
     paths:
-    - 'icons/**'
+      - 'icons/**.png'
 
 jobs:
-  sync:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout repository
+    - name: Checkout code
       uses: actions/checkout@v2
 
     - name: Install jq
-      run: sudo apt-get update && sudo apt-get install -y jq
+      run: sudo apt-get install -y jq
 
-    - name: Sync icons to JSON
+    - name: Generate icons.json
       run: |
-        ICONS_JSON='{"icons": []}'
-        for icon in icons/*.png; do  # Now targeting PNG icons
+        ICONS_JSON='{"name": "icons", "description": "By cc63", "icons": []}'
+        for icon in icons/*.png; do
           ICON_NAME=$(basename "$icon" .png)
-          ICONS_JSON=$(echo "$ICONS_JSON" | jq ".icons += [\"$ICON_NAME\"]")
+          ICON_URL="https://raw.githubusercontent.com/cc63/ICON/main/$icon"
+          ICONS_JSON=$(echo "$ICONS_JSON" | jq --arg name "$ICON_NAME" --arg url "$ICON_URL" '.icons += [{"name": $name, "url": $url}]')
         done
         echo "$ICONS_JSON" > icons.json
-        
+
     - name: Commit and push changes
       run: |
-        git config user.name "GitHub Action"
-        git config user.email "action@github.com"
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add icons.json
-        git commit -m "Sync icons to JSON" || echo "No changes to commit"
-        git push origin HEAD || echo "No changes to push"
+        git commit -m "Update icons.json" -a || echo "No changes to commit"
+        git push
