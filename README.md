@@ -8,9 +8,9 @@
 ## 🎭 图标预览
 
 ![Nex](https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png)
-![imm](https://raw.githubusercontent.com/cc63/ICON/main/icons/imm.png) 
 ![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png) 
 ![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-konglong.png)
+![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Flower.png)
 
 > 💡 注意: 以上只是部分图标的展示，更多图标请直接访问仓库查看。
 
