@@ -4,7 +4,9 @@
 
 <div align="center">
     <h1> 🌟 cc63 图标库 🌟 </h1>
-    <img src="https://raw.githubusercontent.com/cc63/ICON/main/icons/MESL.png" alt="图标示例" width="100">
+    <div style="background-color: black; width: 120px; height: 120px; display: inline-block; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/cc63/ICON/main/icons/MESL.png" alt="MESL" width="100">
+    </div>
     <p>为 Sub-Store 与 Quantumult X 精心设计的纯色图标库</p>
 </div>
 
@@ -18,8 +20,30 @@
 
 以下是部分图标的预览：
 
-![图标1](https://raw.githubusercontent.com/cc63/ICON/main/icons/MESL.png)
-<!-- 请根据实际图标库的内容添加更多图标的预览链接 -->
+<div style="background-color: black; display: inline-block; vertical-align: middle; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png" alt="Nexitally" width="100">
+    <p style="text-align: center; color: white;">Nexitally</p>
+</div>
+
+<div style="background-color: black; display: inline-block; vertical-align: middle; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/cc63/ICON/main/icons/AMY.png" alt="AMY" width="100">
+    <p style="text-align: center; color: white;">AMY</p>
+</div>
+
+<div style="background-color: black; display: inline-block; vertical-align: middle; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/cc63/ICON/main/icons/imm.png" alt="imm" width="100">
+    <p style="text-align: center; color: white;">imm</p>
+</div>
+
+<div style="background-color: black; display: inline-block; vertical-align: middle; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png" alt="Kuromis" width="100">
+    <p style="text-align: center; color: white;">Kuromis</p>
+</div>
+
+<div style="background-color: black; display: inline-block; vertical-align: middle; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/cc63/ICON/main/icons/Coffee.png" alt="Coffee" width="100">
+    <p style="text-align: center; color: white;">Coffee</p>
+</div>
 
 ### 🔧 使用方法
 
