@@ -22,8 +22,8 @@
 2. 在 **Sub-Store** 或 **Quantumult X** 中的适当位置粘贴URL即可。
 
 ## 💼 投稿 & 反馈
-- Telegram: [cc63](https://t.me/ccc63)
-🙌 感谢你的访问和支持！如有任何建议或反馈，请随时通过  Telegram 向我反馈。
+- Telegram: [ccc63](https://t.me/ccc63)
+- 🙌 感谢你的访问和支持！如有任何建议或反馈，请随时通过  Telegram 向我反馈。
 
 ## ✈️ 我用的机场
 
