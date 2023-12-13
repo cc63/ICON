@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'icons/**.png'
+      - 'icons/**.PNG'
 
 jobs:
   build:
@@ -19,8 +20,9 @@ jobs:
     - name: Generate icons.json
       run: |
         ICONS_JSON='{"name": "icons", "description": "By cc63", "icons": []}'
-        for icon in icons/*.png; do
+        for icon in icons/*.png icons/*.PNG; do
           ICON_NAME=$(basename "$icon" .png)
+          ICON_NAME=$(basename "$ICON_NAME" .PNG)
           ICON_URL="https://raw.githubusercontent.com/cc63/ICON/main/$icon"
           ICONS_JSON=$(echo "$ICONS_JSON" | jq --arg name "$ICON_NAME" --arg url "$ICON_URL" '.icons += [{"name": $name, "url": $url}]')
         done
