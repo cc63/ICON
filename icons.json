@@ -73,6 +73,10 @@
     {
       "name": "imm",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/imm.png"
+    },
+    {
+      "name": "*",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/*.PNG"
     }
   ]
 }
