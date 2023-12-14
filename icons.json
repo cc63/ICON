@@ -75,8 +75,8 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/imm.png"
     },
     {
-      "name": "Loon",
-      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Loon.PNG"
+      "name": "*",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/*.PNG"
     }
   ]
 }
