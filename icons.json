@@ -39,8 +39,16 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Lend.png"
     },
     {
+      "name": "Loon",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Loon.png"
+    },
+    {
       "name": "MESL",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/MESL.png"
+    },
+    {
+      "name": "MI",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/MI.png"
     },
     {
       "name": "Nexitally",
@@ -75,8 +83,8 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/imm.png"
     },
     {
-      "name": "*",
-      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/*.PNG"
+      "name": "Surge",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.PNG"
     }
   ]
 }
