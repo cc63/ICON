@@ -1,9 +1,9 @@
 # 🎨 机场图标库
 
-🌟 这是一个专为 **Sub-Store** 与 **Quantumult X** 设计的机场图标库。
+🌟 这是一个专为 **Sub-Store** 设计的机场图标库。
 
 ## 🚀 描述
-这个图标库是由 **cc63** 精心创建的，旨在为你的 Sub-Store 和 Quantumult X 提供优雅且高质量的机场图标。
+这个图标库是由 **cc63** 精心创建的，旨在为你的 Sub-Store 提供优雅且高质量的机场图标。
 
 ## 🎭 图标预览
 
@@ -19,13 +19,4 @@
 
 ## 🛠 使用方法
 1. 复制你喜欢的图标的URL。
-2. 在 **Sub-Store** 或 **Quantumult X** 中的适当位置粘贴URL即可。
-
-## 💼 投稿 & 反馈
-- Telegram: [ccc63](https://t.me/ccc63)
-- 🙌 感谢你的访问和支持！如有任何建议或反馈，请随时通过  Telegram 向我反馈。
-
-## ✈️ 我推荐的机场
-
-- 🚀[「MESL」公有云/低倍率/家宽节点，落地线路丰富](https://in.mesl.cloud/#/register?code=YiKXC8T0)
-- 🚀[「CTC」小众精品，备用首选](https://www.jinglongyu.com/#/register?code=NhhJLvBB)
+2. 在 **Sub-Store** 中的适当位置粘贴URL即可。
