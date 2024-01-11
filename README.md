@@ -12,7 +12,7 @@
 ![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-Konglong.png)
 ![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/FlowerCloud.png)
 
-> 💡 注意: 以上只是部分图标的展示，更多图标请直接访问仓库查看。
+> 💡 投稿: 如果您还有其他想上传的机场图标，请发issues告诉我～
 
 ## 🤖 My AFF 我用的机场
 
