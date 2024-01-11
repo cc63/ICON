@@ -59,6 +59,10 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Ytoo.png"
     },
     {
+      "name": "tvOS",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/tvOS.png"
+    },
+    {
       "name": "*",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/*.PNG"
     }
