@@ -12,7 +12,7 @@
 ![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png)
 ![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png)
 
-> 💡 投稿: 如果您还有其他想上传的机场图标，请发issues告诉我～
+> 💡 投稿: 如果您有更多机场图标，请发issues告诉我～
 
 ## 🤖 My AFF 我用的机场
 
