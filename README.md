@@ -1,18 +1,10 @@
 # 🎨 机场图标库
 
-🌟 为 **Sub-Store** 打造的机场图标库。
+🌟 自用的 **Sub-Store** 机场图标库。
 
 ## 📦 JSON 地址
 > **链接**：https://raw.githubusercontent.com/cc63/ICON/main/icons.json
 
-## 🎭 图标预览
-
-![Nex](https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png)
-![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png)
-![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png)
-![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png)
-
-> 💡 投稿: 如果您有更多机场图标，请发issues告诉我～
 
 ## 🤖 My AFF 我用的机场
 
