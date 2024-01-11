@@ -3,8 +3,40 @@
   "description": "By cc63",
   "icons": [
     {
-      "name": "*",
-      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/*.png"
+      "name": "BaiYueGuang",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/BaiYueGuang.png"
+    },
+    {
+      "name": "CTC",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/CTC.png"
+    },
+    {
+      "name": "FlowerCloud",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/FlowerCloud.png"
+    },
+    {
+      "name": "Kuromis",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png"
+    },
+    {
+      "name": "MESL",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/MESL.png"
+    },
+    {
+      "name": "TAG",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/TAG.png"
+    },
+    {
+      "name": "Texon-Eyu",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-Eyu.png"
+    },
+    {
+      "name": "Tpap",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Tpap.png"
+    },
+    {
+      "name": "Ytoo",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Ytoo.png"
     },
     {
       "name": "*",
