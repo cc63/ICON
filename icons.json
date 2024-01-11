@@ -3,6 +3,14 @@
   "description": "By cc63",
   "icons": [
     {
+      "name": "ACA",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/ACA.png"
+    },
+    {
+      "name": "AMY",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/AMY.png"
+    },
+    {
       "name": "BaiYueGuang",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/BaiYueGuang.png"
     },
@@ -23,12 +31,24 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/MESL.png"
     },
     {
+      "name": "Nexitally",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png"
+    },
+    {
       "name": "TAG",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/TAG.png"
     },
     {
       "name": "Texon-Eyu",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-Eyu.png"
+    },
+    {
+      "name": "Texon-Konglong",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-Konglong.png"
+    },
+    {
+      "name": "Titan",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Titan.png"
     },
     {
       "name": "Tpap",
