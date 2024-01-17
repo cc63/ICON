@@ -3,7 +3,7 @@ name: Generate Icons JSON
 on:
   push:
     paths:
-      - 'icons/**/*.png'
+      - 'icons/**.png'
 
 jobs:
   build:
