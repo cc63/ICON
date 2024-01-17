@@ -3,6 +3,10 @@
   "description": "By cc63",
   "icons": [
     {
+      "name": "ACA",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/ACA.png"
+    },
+    {
       "name": "CTC",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/CTC.png"
     },
@@ -15,8 +19,20 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/MESL.png"
     },
     {
+      "name": "Nexitally",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png"
+    },
+    {
       "name": "TAG",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/TAG.png"
+    },
+    {
+      "name": "Texon-EY",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-EY.png"
+    },
+    {
+      "name": "Texon-KL",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-KL.png"
     },
     {
       "name": "Texon",
