@@ -5,8 +5,12 @@
 ## 🎭 图标预览
 ![Nex](https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png#gh-dark-mode-only)
 ![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png#gh-dark-mode-only)
-![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png#gh-dark-mode-only)
-![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png#gh-dark-mode-only)
+![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-EY.png#gh-dark-mode-only)
+![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Flower.png#gh-dark-mode-only)
+![Surge](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png#gh-dark-mode-only)
+![Loon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Loon.png#gh-dark-mode-only)
+![Stash](https://raw.githubusercontent.com/cc63/ICON/main/icons/Stash.png#gh-dark-mode-only)
+![Clash](https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png#gh-dark-mode-only)
 
 [🌅 图标为纯白色，请在深色模式下预览](./#gh-light-mode-only)
 
