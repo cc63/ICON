@@ -12,14 +12,12 @@
 ![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png#gh-dark-mode-only)
 ![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-EY.png#gh-dark-mode-only)
 ![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Flower.png#gh-dark-mode-only)
-![YTOO](https://raw.githubusercontent.com/cc63/ICON/main/icons/YTOO.png#gh-dark-mode-only)
 ![CTC](https://raw.githubusercontent.com/cc63/ICON/main/icons/CTC.png#gh-dark-mode-only)
 ![Surge](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png#gh-dark-mode-only)
 ![Loon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Loon.png#gh-dark-mode-only)
 ![Stash](https://raw.githubusercontent.com/cc63/ICON/main/icons/Stash.png#gh-dark-mode-only)
 ![Clash](https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png#gh-dark-mode-only)
 ![Surfboard](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surfboard.png#gh-dark-mode-only)
-![tvOS](https://raw.githubusercontent.com/cc63/ICON/main/icons/tvOS.png#gh-dark-mode-only)
 
 </div>
 
