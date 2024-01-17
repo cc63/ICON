@@ -3,9 +3,11 @@
  <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" width="200">
 </div>
 
-🌟 适用于 **Sub-Store** 的机场图标库
+## 💥 欢迎使用
 
-📦 **JSON链接**：https://raw.githubusercontent.com/cc63/ICON/main/icons.json
+⚙️ 适用于 **Sub-Store** 的机场图标库
+
+📦 **JSON地址**：https://raw.githubusercontent.com/cc63/ICON/main/icons.json
 
 ## 🎭 图标预览
 <div align="center">
@@ -27,7 +29,7 @@
 
 [❌ 当前浏览器处于浅色模式，图标预览不可用](./#gh-light-mode-only)
 
-## 🤖 My AFF 我用的机场
+## 🤖 机场推荐
 
 > **「MESL」** [公有云节点、家宽节点、低倍率节点，落地线路丰富](https://in.mesl.cloud/#/register?code=YiKXC8T0)
 
