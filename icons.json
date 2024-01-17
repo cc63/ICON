@@ -47,6 +47,10 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png"
     },
     {
+      "name": "ClashMeta",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/ClashMeta.png"
+    },
+    {
       "name": "Coffee",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Coffee.png"
     },
@@ -115,8 +119,16 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/PaoFu.png"
     },
     {
+      "name": "QuantumultX",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/QuantumultX.png"
+    },
+    {
       "name": "RenZhe",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/RenZhe.png"
+    },
+    {
+      "name": "Shadowrocket",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Shadowrocket.png"
     },
     {
       "name": "ShouHou",
@@ -173,6 +185,10 @@
     {
       "name": "Uni",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Uni.png"
+    },
+    {
+      "name": "V2Ray",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/V2Ray.png"
     },
     {
       "name": "V2Tun",
