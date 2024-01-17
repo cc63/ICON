@@ -8,7 +8,9 @@
 ![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png#gh-dark-mode-only)
 ![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png#gh-dark-mode-only)
 
-[⚠️注意: 图标均为纯白色，切换到深色模式才能预览哦～](./#gh-light-mode-only)
+[🌅 图标为纯白色，请在深色模式下预览](./#gh-light-mode-only)
+
+[❌ 当前浏览器处于浅色模式，图标预览不可用](./#gh-light-mode-only)
 
 [💡 投稿: 如果您还有其他想上传的机场图标，请发issues告诉我～](./#gh-dark-mode-only)
 
