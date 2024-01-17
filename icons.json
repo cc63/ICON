@@ -17,6 +17,10 @@
     {
       "name": "TAG",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/TAG.png"
+    },
+    {
+      "name": "*",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/*.PNG"
     }
   ]
 }
