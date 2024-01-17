@@ -28,7 +28,7 @@
 
 </div>
 
-[🌅 图标为纯白色，请在深色模式下预览](./#gh-light-mode-only)
+[🌅 深色模式预览效果更佳，请切换至深色模式](./#gh-light-mode-only)
 
 [❌ 当前浏览器处于浅色模式，图标预览不可用](./#gh-light-mode-only)
 
