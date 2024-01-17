@@ -1,6 +1,6 @@
 # 🎨 机场图标库
 
-🌟 为 **Sub-Store** 打造的纯色机场图标库
+🌟 适用于 **Sub-Store** 的机场图标库
 
 📦 **JSON链接**：https://raw.githubusercontent.com/cc63/ICON/main/icons.json
 
