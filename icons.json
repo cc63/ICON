@@ -1,6 +1,6 @@
 {
   "name": "icons",
-  "description": "By cc63",
+  "description": "适用于Sub-Store的机场图标库",
   "icons": [
     {
       "name": "ACA",
@@ -85,6 +85,10 @@
     {
       "name": "YTOO",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/YTOO.png"
+    },
+    {
+      "name": "test",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/test.png"
     },
     {
       "name": "tvOS",
