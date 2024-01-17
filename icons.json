@@ -11,6 +11,10 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/AMY.png"
     },
     {
+      "name": "BaiYueGuang",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/BaiYueGuang.png"
+    },
+    {
       "name": "CTC",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/CTC.png"
     },
@@ -19,8 +23,16 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png"
     },
     {
+      "name": "Dler",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Dler.png"
+    },
+    {
       "name": "Flower",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Flower.png"
+    },
+    {
+      "name": "IMM",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/IMM.png"
     },
     {
       "name": "Kuromis",
@@ -63,6 +75,10 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-KL.png"
     },
     {
+      "name": "Titan",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Titan.png"
+    },
+    {
       "name": "Tpap",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Tpap.png"
     },
@@ -73,6 +89,10 @@
     {
       "name": "tvOS",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/tvOS.png"
+    },
+    {
+      "name": "*",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/*.PNG"
     }
   ]
 }
