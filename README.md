@@ -1,9 +1,15 @@
 # 🎨 机场图标库
 
-🎭 为 **Sub-Store** 打造的机场图标库
+🌟 为 **Sub-Store** 打造的纯色机场图标库
 
-‼️ 图标全部采用纯白色绘制，请在深色模式下预览
+## 🎭 图标预览
 
+![Nex](https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png#gh-dark-mode-only)
+![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png#gh-dark-mode-only)
+![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png#gh-dark-mode-only)
+![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png#gh-dark-mode-only)
+
+> 💡 投稿: 如果您还有其他想上传的机场图标，请发issues告诉我～
 
 ## 📦 JSON 地址
 > **链接**：https://raw.githubusercontent.com/cc63/ICON/main/icons.json
