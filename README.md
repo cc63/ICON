@@ -6,6 +6,8 @@
 > **链接**：https://raw.githubusercontent.com/cc63/ICON/main/icons.json
 
 ## 🎭 图标预览
+<div align="center">
+  
 ![Nex](https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png#gh-dark-mode-only)
 ![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png#gh-dark-mode-only)
 ![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-EY.png#gh-dark-mode-only)
@@ -18,6 +20,8 @@
 ![Clash](https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png#gh-dark-mode-only)
 ![Surfboard](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surfboard.png#gh-dark-mode-only)
 ![tvOS](https://raw.githubusercontent.com/cc63/ICON/main/icons/tvOS.png#gh-dark-mode-only)
+
+</div>
 
 
 [🌅 图标为纯白色，请在深色模式下预览](./#gh-light-mode-only)
