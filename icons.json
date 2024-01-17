@@ -11,8 +11,16 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/CTC.png"
     },
     {
+      "name": "Clash",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png"
+    },
+    {
       "name": "Kuromis",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png"
+    },
+    {
+      "name": "Loon",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Loon.png"
     },
     {
       "name": "MESL",
@@ -21,6 +29,18 @@
     {
       "name": "Nexitally",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png"
+    },
+    {
+      "name": "Stash",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Stash.png"
+    },
+    {
+      "name": "Surfboard",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Surfboard.png"
+    },
+    {
+      "name": "Surge",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png"
     },
     {
       "name": "TAG",
@@ -33,6 +53,10 @@
     {
       "name": "Texon-KL",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-KL.png"
+    },
+    {
+      "name": "tvOS",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/tvOS.png"
     },
     {
       "name": "*",
