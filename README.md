@@ -2,8 +2,7 @@
 
 🌟 为 **Sub-Store** 打造的纯色机场图标库
 
-## 📦 JSON 地址
-> **链接**：https://raw.githubusercontent.com/cc63/ICON/main/icons.json
+📦 **JSON链接**：https://raw.githubusercontent.com/cc63/ICON/main/icons.json
 
 ## 🎭 图标预览
 <div align="center">
@@ -27,6 +26,7 @@
 [❌ 当前浏览器处于浅色模式，图标预览不可用](./#gh-light-mode-only)
 
 [💡 仅展示部分图标，更多图标请查看JSON～](./#gh-dark-mode-only)
+
 
 ## 🤖 My AFF 我用的机场
 
