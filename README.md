@@ -26,7 +26,7 @@
 
 [❌ 当前浏览器处于浅色模式，图标预览不可用](./#gh-light-mode-only)
 
-[💡 投稿: 如果您还有其他想上传的机场图标，请发issues告诉我～](./#gh-dark-mode-only)
+[💡 提示: 仅展示部分图标，更多图标请参照JSON～](./#gh-dark-mode-only)
 
 ## 🤖 My AFF 我用的机场
 
