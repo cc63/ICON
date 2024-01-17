@@ -29,9 +29,11 @@
 
 </div>
 
-[❌ **为确保显示效果，请切换至深色模式**](./#gh-light-mode-only)
+[❌ **图标预览仅支持深色模式**](./#gh-light-mode-only)
 
-[❌ **当前浏览器处于浅色模式，图标预览不可用**](./#gh-light-mode-only)
+[❌ **当前浏览器正处于浅色模式**](./#gh-light-mode-only)
+
+[❌ **为确保显示效果，请切换深色模式**](./#gh-light-mode-only)
 
 
 ## 🤖 机场推荐
