@@ -20,13 +20,9 @@
 
 </div>
 
-
 [🌅 图标为纯白色，请在深色模式下预览](./#gh-light-mode-only)
 
 [❌ 当前浏览器处于浅色模式，图标预览不可用](./#gh-light-mode-only)
-
-[💡 仅展示部分图标，更多图标请查看JSON～](./#gh-dark-mode-only)
-
 
 ## 🤖 My AFF 我用的机场
 
