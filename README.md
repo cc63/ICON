@@ -29,11 +29,9 @@
 
 </div>
 
-[❌ **图标预览仅支持深色模式**](./#gh-light-mode-only)
+[❌ **图标预览仅支持深色模式！**](./#gh-light-mode-only)
 
-[❌ **图标预览仅支持深色模式**](./#gh-light-mode-only)
-
-[❌ **如需预览图标 请切换至深色模式**](./#gh-light-mode-only)
+[❌ **如需预览图标，请切换至深色模式**](./#gh-light-mode-only)
 
 
 ## 🤖 机场推荐
