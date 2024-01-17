@@ -10,7 +10,8 @@
 🌟 采用纯白色绘制，完美驾驭不同主题
 
 
-📦 **JSON地址**：https://raw.githubusercontent.com/cc63/ICON/main/icons.json
+## 📦 **JSON地址**
+> **链接:** https://raw.githubusercontent.com/cc63/ICON/main/icons.json
 
 ## 🎭 图标预览
 <div align="center">
