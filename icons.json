@@ -19,6 +19,10 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/TAG.png"
     },
     {
+      "name": "Texon",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon.png"
+    },
+    {
       "name": "*",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/*.PNG"
     }
