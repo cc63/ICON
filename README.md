@@ -8,9 +8,9 @@
 ![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png#gh-dark-mode-only)
 ![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png#gh-dark-mode-only)
 
-[> ⚠️注意: 图标为纯白色，切换至深色模式才能预览哦](./#gh-light-mode-only)
+[⚠️注意: 图标均为纯白色，切换到深色模式才能预览哦～](./#gh-light-mode-only)
 
-[> 💡 投稿: 如果您还有其他想上传的机场图标，请发issues告诉我～](./#gh-dark-mode-only)
+[💡 投稿: 如果您还有其他想上传的机场图标，请发issues告诉我～](./#gh-dark-mode-only)
 
 
 ## 📦 JSON 地址
