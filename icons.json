@@ -1,0 +1,14 @@
+{
+  "name": "icons",
+  "description": "By cc63",
+  "icons": [
+    {
+      "name": "*",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/*.png"
+    },
+    {
+      "name": "*",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/*.PNG"
+    }
+  ]
+}
