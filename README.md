@@ -40,4 +40,4 @@
 
 >  **「NaiU」** [性价比高，价格实惠，多个低倍率节点](https://www.naiunet.net/register?aff=lSj8WwCp)
 
->  **「CTC」** [小众精品，群里偶尔抽点京东e卡](https://www.jinglongyu.com/#/register?code=NhhJLvBB)
+>  **「CTC」** [小众机场，小而美的优质线路](https://www.jinglongyu.com/#/register?code=NhhJLvBB)
