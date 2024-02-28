@@ -17,7 +17,7 @@
   
 ![Nex](https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png#gh-dark-mode-only)
 ![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png#gh-dark-mode-only)
-![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-EY.png#gh-dark-mode-only)
+![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-KL.png#gh-dark-mode-only)
 ![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Flower.png#gh-dark-mode-only)
 ![CTC](https://raw.githubusercontent.com/cc63/ICON/main/icons/CTC.png#gh-dark-mode-only)
 ![Surge](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png#gh-dark-mode-only)
