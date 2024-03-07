@@ -35,6 +35,4 @@
 
 ## 🤖 机场推荐
 
->  **「MESL」** [UDPN专线/家宽节点/冷门地区/低倍率节点，落地线路丰富延迟低](https://in.mesl.cloud/#/register?code=YiKXC8T0)
-
 >  **「CTC」** [小众精品，稳定优质，群内不定时有抽奖活动](https://www.jinglongyu.com/#/register?code=NhhJLvBB)
