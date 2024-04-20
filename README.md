@@ -2,11 +2,6 @@
  <img src="https://raw.githubusercontent.com/cc63/ICON/main/Sub-Store.png" width="200">
 </div>
 
-## 🫓画个大饼
-
-🫓 暑假会改成精致的彩色图标
-
-
 ## 💥 欢迎使用
 
 ⚙️ 适用于 **Sub-Store** 的机场图标库
