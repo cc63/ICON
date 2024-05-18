@@ -32,10 +32,3 @@
 [❌ **图标预览仅支持深色模式**](./#gh-light-mode-only)
 
 [❌ **如需预览图标，请切换至深色模式**](./#gh-light-mode-only)
-
-
-## 🤖 机场推荐
-
->  **「MESL」** [UDPN专线，落地ISP丰富](https://in.mesl.cloud/#/register?code=ew06hQ6A)
-
->  **「CTC」** [稳定优质，备用首选](https://www.jinglongyu.com/#/register?code=NhhJLvBB)
