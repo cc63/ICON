@@ -1,0 +1,35 @@
+name: Generate Icons JSON
+
+on:
+  push:
+    paths:
+      - 'Color/**.png'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4  # 更新到最新版本
+
+    - name: Install jq
+      run: sudo apt-get install -y jq
+
+    - name: Generate Color.json
+      run: |
+        ICONS_JSON='{"name": "Color", "description": "适用于Sub-Store的机场图标库", "icons": []}'
+        for icon in Color/*.png; do
+          ICON_NAME=$(basename "$icon" .png)
+          ICON_URL="https://raw.githubusercontent.com/cc63/ICON/main/$icon"
+          ICONS_JSON=$(echo "$ICONS_JSON" | jq --arg name "$ICON_NAME" --arg url "$ICON_URL" '.icons += [{"name": $name, "url": $url}]')
+        done
+        echo "$ICONS_JSON" > Color.json
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add Color.json
+        git commit -m "Update Color.json" -a || echo "No changes to commit"
+        git push
