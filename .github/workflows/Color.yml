@@ -1,4 +1,4 @@
-name: Generate Icons JSON
+name: Generate Color JSON
 
 on:
   push:
