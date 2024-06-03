@@ -26,8 +26,8 @@
   
 ![Nex](https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png)
 ![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png)
-![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-KL.png)
 ![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Flower.png)
+![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/YTOO.png)
 ![CTC](https://raw.githubusercontent.com/cc63/ICON/main/icons/CTC.png)
 ![Surge](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png)
 ![Loon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Loon.png)
