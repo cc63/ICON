@@ -24,19 +24,15 @@
 ## 🎭 图标预览
 <div align="center">
   
-![Nex](https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png#gh-dark-mode-only)
-![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png#gh-dark-mode-only)
-![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-KL.png#gh-dark-mode-only)
-![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Flower.png#gh-dark-mode-only)
-![CTC](https://raw.githubusercontent.com/cc63/ICON/main/icons/CTC.png#gh-dark-mode-only)
-![Surge](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png#gh-dark-mode-only)
-![Loon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Loon.png#gh-dark-mode-only)
-![Stash](https://raw.githubusercontent.com/cc63/ICON/main/icons/Stash.png#gh-dark-mode-only)
-![Clash](https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png#gh-dark-mode-only)
-![Surfboard](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surfboard.png#gh-dark-mode-only)
+![Nex](https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png)
+![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png)
+![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-KL.png)
+![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Flower.png)
+![CTC](https://raw.githubusercontent.com/cc63/ICON/main/icons/CTC.png)
+![Surge](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png)
+![Loon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Loon.png)
+![Stash](https://raw.githubusercontent.com/cc63/ICON/main/icons/Stash.png)
+![Clash](https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png)
+![Surfboard](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surfboard.png)
 
 </div>
-
-[❌ **图标预览仅支持深色模式**](./#gh-light-mode-only)
-
-[❌ **如需预览图标，请切换至深色模式**](./#gh-light-mode-only)
