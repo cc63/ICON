@@ -16,7 +16,7 @@
  https://raw.githubusercontent.com/cc63/ICON/main/icons.json
 ```
 
-- **彩色图标库 [Beta]**
+- **彩色图标库 [Beta]**（暑假一定
 ```
  https://raw.githubusercontent.com/cc63/ICON/main/Color.json
 ```
