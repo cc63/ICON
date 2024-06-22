@@ -25,10 +25,10 @@
 <div align="center">
   
 ![Nex](https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png)
-![Kuromis](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png)
-![Flower](https://raw.githubusercontent.com/cc63/ICON/main/icons/Flower.png)
-![Texon](https://raw.githubusercontent.com/cc63/ICON/main/icons/YTOO.png)
-![CTC](https://raw.githubusercontent.com/cc63/ICON/main/icons/CTC.png)
+![KLM](https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png)
+![IMM](https://raw.githubusercontent.com/cc63/ICON/main/icons/IMM.png)
+![FLOWER](https://raw.githubusercontent.com/cc63/ICON/main/icons/Flower.png)
+![YTOO](https://raw.githubusercontent.com/cc63/ICON/main/icons/YTOO.png)
 ![Surge](https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png)
 ![Loon](https://raw.githubusercontent.com/cc63/ICON/main/icons/Loon.png)
 ![Stash](https://raw.githubusercontent.com/cc63/ICON/main/icons/Stash.png)
