@@ -115,6 +115,10 @@
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/IMM.png"
     },
     {
+      "name": "JAS.AI",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/JAS.AI.png"
+    },
+    {
       "name": "JiJi",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/JiJi.png"
     },
@@ -125,6 +129,10 @@
     {
       "name": "Lend",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Lend.png"
+    },
+    {
+      "name": "Linkeless",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Linkeless.png"
     },
     {
       "name": "Loon",
@@ -229,6 +237,10 @@
     {
       "name": "TKV",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/TKV.png"
+    },
+    {
+      "name": "TKV_X",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/TKV_X.png"
     },
     {
       "name": "Texon-EY",
