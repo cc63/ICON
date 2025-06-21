@@ -3,16 +3,48 @@
   "description": "适用于Sub-Store的机场图标库",
   "icons": [
     {
+      "name": "CTC",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/CTC.png"
+    },
+    {
+      "name": "CTC_Classic",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/CTC_Classic.png"
+    },
+    {
+      "name": "Flower",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/Flower.png"
+    },
+    {
+      "name": "Imm",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/Imm.png"
+    },
+    {
+      "name": "Imm_Classic",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/Imm_Classic.png"
+    },
+    {
       "name": "Kuromis",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/Kuromis.png"
+    },
+    {
+      "name": "Kuromis_Classic",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/Kuromis_Classic.png"
     },
     {
       "name": "MESL",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/MESL.png"
     },
     {
+      "name": "MESL_Classic",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/MESL_Classic.png"
+    },
+    {
       "name": "Nexitally",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/Nexitally.png"
+    },
+    {
+      "name": "Nexitally_Classic",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/Nexitally_Classic.png"
     },
     {
       "name": "YTOO",
