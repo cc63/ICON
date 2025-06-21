@@ -1,0 +1,22 @@
+{
+  "name": "Surge",
+  "description": "适用于Surge的图标库",
+  "icons": [
+    {
+      "name": "Disney",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Surge/Disney.png"
+    },
+    {
+      "name": "PrimeVideo",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Surge/PrimeVideo.png"
+    },
+    {
+      "name": "Speedtest",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Surge/Speedtest.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Surge/TikTok.png"
+    }
+  ]
+}
