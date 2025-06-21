@@ -1,0 +1,31 @@
+name: Surge JSON Sync
+on:
+  push:
+    paths:
+      - 'PNG/Surge/**.png'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Generate Surge.json
+      run: |
+        mkdir -p JSON
+        echo '{"name": "Surge", "description": "适用于Surge的图标库", "icons": []}' > JSON/Surge.json
+        for icon in PNG/Surge/*.png; do
+          [ -f "$icon" ] || continue
+          name=$(basename "$icon" .png)
+          url="https://raw.githubusercontent.com/cc63/ICON/main/$icon"
+          jq --arg name "$name" --arg url "$url" '.icons += [{"name": $name, "url": $url}]' JSON/Surge.json > tmp.json && mv tmp.json JSON/Surge.json
+        done
+    
+    - name: Commit changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add JSON/Surge.json
+        git diff --staged --quiet || git commit -m "Update Surge.json"
+        git push
