@@ -1,0 +1,33 @@
+name: Sub-Store JSON Sync
+on:
+  push:
+    paths:
+      - 'PNG/Sub-Store/**.png'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Generate Sub-Store.json
+      run: |
+        mkdir -p JSON
+        echo '{"name": "Sub-Store", "description": "适用于Sub-Store的机场图标库", "icons": []}' > JSON/Sub-Store.json
+        for icon in PNG/Sub-Store/*.png; do
+          [ -f "$icon" ] || continue
+          name=$(basename "$icon" .png)
+          url="https://raw.githubusercontent.com/cc63/ICON/main/$icon"
+          jq --arg name "$name" --arg url "$url" '.icons += [{"name": $name, "url": $url}]' JSON/Sub-Store.json > tmp.json && mv tmp.json JSON/Sub-Store.json
+        done
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add JSON/Sub-Store.json
+        git diff --staged --quiet || git commit -m "Update Sub-Store.json"
+        git push
