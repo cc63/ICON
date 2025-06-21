@@ -1,0 +1,10 @@
+{
+  "name": "Sub-Store",
+  "description": "适用于Sub-Store的机场图标库",
+  "icons": [
+    {
+      "name": "Nexitally",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/PNG/Sub-Store/Nexitally.png"
+    }
+  ]
+}
