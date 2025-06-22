@@ -13,7 +13,7 @@
 
 - **彩色图标库 [Beta]**
 ```
-https://raw.githubusercontent.com/cc63/ICON/refs/heads/main/JSON/Sub-Store.json
+https://raw.githubusercontent.com/cc63/ICON/main/JSON/Sub-Store.json
 ```
 
 
